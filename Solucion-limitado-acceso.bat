@@ -33,5 +33,4 @@ REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Advanced Thre
 echo ELiminamos registros 3/3
 REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender" /F
 
-
 echo Si ha ocurrido un error, por favor escribeme en www.comandoit.com
